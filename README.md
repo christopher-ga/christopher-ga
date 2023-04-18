@@ -3,9 +3,8 @@
 I am a self-taught software developer from Austin, Texas. Most recently, I have been learning a lot about web scraping and am trying to figure out a way to use what I have learned to bring visibility to political decisions made by political leaders.
 
 <div id="badges">
+
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
 <!--
