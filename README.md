@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Christopher Garcia 👋
+
+I am a self-taught software developer from Austin, Texas. Most recently, I have been learning a lot about web scraping and would love to create a project to bring visibility to political decisions made by political leaders.
 
 <!--
 **christopher-ga/christopher-ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
