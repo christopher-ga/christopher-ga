@@ -1,6 +1,7 @@
-### Hi there, I'm Christopher Garcia 👋
+### Hi, I'm Chris 👋
 
 I am a self-taught software developer from Austin, Texas. Most recently, I have been learning a lot about web scraping and am trying to figure out a way to use what I have learned to bring visibility to political decisions made by political leaders.
+***
 
 <!-- <div id="badges">
 
